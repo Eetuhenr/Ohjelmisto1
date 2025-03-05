@@ -1,0 +1,10 @@
+import random
+kolmenumeroinen_koodi = random.randint(0, 9)
+kolmonen2 = random.randint(0, 9)
+kolmonen3 = random.randint(0, 9)
+nelinumeroinen_koodi = random.randint(1, 6)
+neli2 = random.randint(1, 6)
+neli3 = random.randint(1, 6)
+neli4 = random.randint(1, 6)
+print("Kolmenumeroinen koodi:", kolmenumeroinen_koodi, kolmonen2, kolmonen3)
+print("nelinumeroinen koodi",nelinumeroinen_koodi, neli2, neli3, neli4)
